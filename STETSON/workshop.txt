@@ -1,0 +1,5 @@
+version=1
+title=Cowboy Hardhat
+description=A special hat.
+tags=Clothing,Items
+visibility=public

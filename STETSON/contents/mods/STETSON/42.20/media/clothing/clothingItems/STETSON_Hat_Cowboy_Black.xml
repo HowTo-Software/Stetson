@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_MaleModel>static\clothes\M_STETSON_CowboyHat</m_MaleModel>
+    <m_FemaleModel>static\clothes\F_STETSON_CowboyHat</m_FemaleModel>
+    <m_GUID>0cbee61f-32d2-47c3-8d84-2cfe0cf6e1f8</m_GUID>
+    <m_Static>true</m_Static>
+    <m_AllowRandomHue>false</m_AllowRandomHue>
+    <m_AllowRandomTint>false</m_AllowRandomTint>
+    <m_AttachBone>Bip01_Head</m_AttachBone>
+    <m_HatCategory>Group02</m_HatCategory>
+    <m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+    <textureChoices>clothes\hat\stetson_cowboyhat_black</textureChoices>
+</clothingItem>
