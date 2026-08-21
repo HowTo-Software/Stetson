@@ -1,0 +1,63 @@
+module STETSON
+{
+    imports
+    {
+        Base
+    }
+
+    item CowboyHat_Black
+    {
+        ItemType = base:clothing,
+        DisplayName = True Grit,
+        Icon = truegrit,
+        BodyLocation = Hat,
+        BloodLocation = Head,
+        ClothingItem = STETSON_Hat_Cowboy_Black,
+        Weight = 0.3,
+        BiteDefense = 70,
+        ScratchDefense = 80,
+        Tags = Hat,
+    }
+
+    item CowboyHat_White
+    {
+        ItemType = base:clothing,
+        DisplayName = Lone Ranger,
+        Icon = loneranger,
+        BodyLocation = Hat,
+        BloodLocation = Head,
+        ClothingItem = STETSON_Hat_Cowboy_White,
+        Weight = 0.3,
+        BiteDefense = 70,
+        ScratchDefense = 80,
+        Tags = Hat,
+    }
+
+    item CowboyHat_Brown
+    {
+        ItemType = base:clothing,
+        DisplayName = Unforgiven,
+        Icon = unforgiven,
+        BodyLocation = Hat,
+        BloodLocation = Head,
+        ClothingItem = STETSON_Hat_Cowboy_Brown,
+        Weight = 0.3,
+        BiteDefense = 70,
+        ScratchDefense = 80,
+        Tags = Hat,
+    }
+
+    item CowboyHat_Pink
+    {
+        ItemType = base:clothing,
+        DisplayName = Annie Oakley,
+        Icon = annieoakley,
+        BodyLocation = Hat,
+        BloodLocation = Head,
+        ClothingItem = STETSON_Hat_Cowboy_Pink,
+        Weight = 0.3,
+        BiteDefense = 70,
+        ScratchDefense = 80,
+        Tags = Hat,
+    }
+}
